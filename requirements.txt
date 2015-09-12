@@ -2,5 +2,7 @@ fuzzywuzzy>=0.8.0
 jsondatabase>=0.0.7
 nltk<4.0.0
 pymongo>=3.0.3,<4.0.0
+#python-twitter>=2.2.0
+git+https://github.com/bear/python-twitter.git@python-v3
 requests~=2.8.0,<3.0.0
 requests-oauthlib==0.5.0
